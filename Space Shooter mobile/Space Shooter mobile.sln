@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter mobile", "Space Shooter mobile.csproj", "{AB0410BC-FCDB-32A0-001E-98E5D6C70B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter mobile.Editor", "Space Shooter mobile.Editor.csproj", "{417E98E8-A24B-CDEC-B10F-72D3F5C0AFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0410BC-FCDB-32A0-001E-98E5D6C70B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0410BC-FCDB-32A0-001E-98E5D6C70B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0410BC-FCDB-32A0-001E-98E5D6C70B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0410BC-FCDB-32A0-001E-98E5D6C70B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417E98E8-A24B-CDEC-B10F-72D3F5C0AFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417E98E8-A24B-CDEC-B10F-72D3F5C0AFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417E98E8-A24B-CDEC-B10F-72D3F5C0AFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417E98E8-A24B-CDEC-B10F-72D3F5C0AFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
